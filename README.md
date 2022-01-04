@@ -1,7 +1,10 @@
 # CS231.M11
 # **ĐỒ ÁN CUỐI KỲ**
 # **ĐỀ TÀI: TÌM HIỂU VÀ ĐÁNH GIÁ MỘT SỐ THUẬT TOÁN PHÂN CỤM CHO BÀI TOÁN PHÂN ĐOẠN ẢNH**
-<h1 align=center style="font-size:50px">CS231.M11</h1>
+<h1 align=center>CS231.M11</h1>
+<h1 align=center>ĐỒ ÁN CUỐI KỲ</h1>
+<h1 align=center>ĐỀ TÀI: TÌM HIỂU VÀ ĐÁNH GIÁ MỘT SỐ THUẬT TOÁN PHÂN CỤM CHO BÀI TOÁN PHÂN ĐOẠN ẢNH</h1>
+
 
 ## **GIỚI THIỆU MÔN HỌC**
 * **Môn học:** Nhập môn Thị giác máy tính
