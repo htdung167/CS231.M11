@@ -3,4 +3,4 @@
 
 # **Usage**
 * Install the necessary libraries included in source code
-* Run on terminal: streamlit run app.py
+* Run on terminal: **streamlit run app.py**
